@@ -3,10 +3,11 @@ import { IExperienceItem } from "@/types";
 const experiences: IExperienceItem[] = [
   {
     designation: "Senior Fullstack Developer",
-    company: "Byteball Foundation",
+    company: "Sunday Roast",
     startDate: "Aug 2022",
-    isCurrentJob: true,
-    location: "Singapore",
+    endDate: "Jan 2025",
+    isCurrentJob: false,
+    location: "Canada",
     description: [
       "Launched a full-stack feature set for user-generated content moderation that reduced the manual review workload by 70% while maintaining community guidelines compliance.",
       "Led the integration of a front-end component library with a custom PHP backend, resulting in a 15% increase in development speed and better UX consistency.",
@@ -17,11 +18,11 @@ const experiences: IExperienceItem[] = [
   },
   {
     designation: "Backend Developer",
-    company: "SkyLab Holding",
+    company: "ThrillX",
     startDate: "Apr 2019",
     endDate: "Jul 2022",
     isCurrentJob: false,
-    location: "Singapore",
+    location: "Canada",
     description: [
       "Spearheaded the development of a cloud-based asset management system in PHP, boosting team productivity by simplifying file sharing and reducing retrieval times by 40%.",
       "Championed a PHP transition project for legacy applications, yielding a 25% improvement in processing efficiency and supporting forward-compatibility.",
@@ -32,11 +33,11 @@ const experiences: IExperienceItem[] = [
   },
   {
     designation: "Frontend Developer",
-    company: "Lanex Corporation",
-    startDate: "May 2016",
+    company: "PixelMusica",
+    startDate: "May 2017",
     endDate: "Mar 2019",
     isCurrentJob: false,
-    location: "Phillippines",
+    location: "Singapore",
     description: [
       "Built large and complex website that is related real-estate service for 10 months using React, Typescript, Material UI",
       "Enhanced the core workflow engine and various API integrations with multiple external partners.",

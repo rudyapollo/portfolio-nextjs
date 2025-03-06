@@ -1,11 +1,11 @@
 class Strings {
   static telegram = "Telegram";
-  static telegramLink = "https://telegram.me/apollo_0003";
+  static telegramLink = "https://telegram.me/rudyapollo";
   static telegramUsername = "apollo";
 
   static github = "GitHub";
-  static githubLink = "https://www.github.com/suptechie";
-  static githubUsername = "suptechie";
+  static githubLink = "https://www.github.com/rudyapollo";
+  static githubUsername = "rudyapollo";
 
   // static linkedIn = "LinkedIn";
   // static linkedInLink = "https://www.linkedin.com/in/santo";
@@ -13,14 +13,14 @@ class Strings {
 
   static discord = "Discord";
   static discordLink = "https://www.discord.com/users/1274021674001498152";
-  static discordUsername = "apollo";
+  static discordUsername = "apollo_0512";
 
   static email = "Email";
-  static primaryEmailLink = "mailto:doveclimax@gmail.com";
-  static primaryEmail = "doveclimax@gmail.com";
+  static primaryEmailLink = "mailto:rudyapollo.0512@gmail.com";
+  static primaryEmail = "rudyapollo.0512@gmail.com";
 
-  static fullName = "Pedro Santos";
-  static shortName = "santo";
+  static fullName = "Alexander Liu";
+  static shortName = "";
 }
 
 export default Strings;

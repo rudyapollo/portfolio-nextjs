@@ -25,9 +25,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Pedro Santos",
+  title: "Alexander Liu",
   description:
-    "Pedro Santos is a proficient Software Engineer and Full Stack Developer from Philippines, skilled in front-end and back-end development using modern tech stacks.",
+    "Alexander Liu is a proficient Software Engineer and Full Stack Developer from Singapore, skilled in front-end and back-end development using modern tech stacks.",
   robots: {
     index: true,
     follow: true,
@@ -66,16 +66,16 @@ export const metadata: Metadata = {
     },
   ],
   keywords: [
-    "pedro santos",
-    "pedro",
-    "pedrosantos",
-    "pedro-santos",
-    "santos pedro",
-    "founder of pedro",
-    "pedro founder",
+    "Alexander Liu",
+    "alexander",
+    "alexanderliu",
+    "alexander-liu",
+    "liu alexander",
+    "founder of alexander",
+    "alexander founder",
     "full stack developer",
-    "filipino developer",
-    "pedro github",
+    "singapore developer",
+    "alexander github",
   ],
 };
 
