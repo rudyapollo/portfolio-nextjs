@@ -3,7 +3,7 @@ import { IExperienceItem } from "@/types";
 const experiences: IExperienceItem[] = [
   {
     designation: "Senior Fullstack Developer",
-    company: "Sunday Roast",
+    company: "Synic Software",
     startDate: "Aug 2022",
     endDate: "Jan 2025",
     isCurrentJob: false,
@@ -18,7 +18,7 @@ const experiences: IExperienceItem[] = [
   },
   {
     designation: "Backend Developer",
-    company: "ThrillX",
+    company: "Ingeno",
     startDate: "Apr 2019",
     endDate: "Jul 2022",
     isCurrentJob: false,
@@ -34,7 +34,7 @@ const experiences: IExperienceItem[] = [
   {
     designation: "Frontend Developer",
     company: "PixelMusica",
-    startDate: "May 2017",
+    startDate: "Jun 2017",
     endDate: "Mar 2019",
     isCurrentJob: false,
     location: "Singapore",
@@ -43,7 +43,7 @@ const experiences: IExperienceItem[] = [
       "Enhanced the core workflow engine and various API integrations with multiple external partners.",
       "Implemented a real-time messaging system and custom calendar feature and other business logic using Firebase.",
       "Contributed to boosting app functionality and revenue generation.",
-      "Proactively identified technical challenges and propose innovative solutions to improve application performance, user experience, and overall system reliability.",
+      "Proactively identified and resolved technical challenges by implementing innovative solutions that optimized application speed, enhanced user experience, and strengthened system reliability.",
     ],
   },
 ];
